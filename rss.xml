@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Grid of Things]]></title>
+        <description><![CDATA[Grid of Things]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 21 May 2016 07:32:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sydslesvighistorie]]></title>
+            <description><![CDATA[<article><h1>Sydslesvighistorie</h1><p>Informations- og læringsside om Sydslesvigs historie</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd277e70051d4391d75a03d2e913f61e332ddae7.jpg"></article>]]></description>
+            <link>http://lamp2.sdu.dk/~loc_kursus2_16/ssh/index.php</link>
+            <guid isPermaLink="false">7bd71c88-fed4-4cd5-b3cd-da770f74d612</guid>
+            <pubDate>Sat, 21 May 2016 07:32:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
